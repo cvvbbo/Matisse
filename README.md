@@ -1,3 +1,15 @@
+
+
+# 图片选中的的小圆圈在CheckView这个类里面
+然后看上去有padding的变宽修改是在（成员变量的这里）
+    private static final int SIZE = 33; // dp
+    有空就系统的看看view的绘制，这东西很容易就忘了，还有研究脑图怎么画！！
+
+
+
+
+===============================
+
 ![Image](/image/banner.png)
 
 # Matisse
